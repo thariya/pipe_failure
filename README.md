@@ -1,2 +1,2 @@
-# pipe_failure
-Long term pipeline failure paper code
+# Long Term Water Pipeline failure prediction using Random Survival Forests
+
